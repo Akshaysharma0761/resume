@@ -1,0 +1,236 @@
+
+#header{
+	
+	background-color: #be3144;
+	width: 100%;
+	height:104px;
+	position: fixed;
+	
+}
+#navbar{
+	float: right;
+
+	
+}
+		
+
+#title{
+	font-size: 36px;
+    font-family: 'Dancing Script', cursive;
+    color: blueviolet;
+    float: left;
+    padding: 1rem;
+    color: white;
+    
+}
+.nav-link{
+	float: left;
+	margin-left: 10px;
+	margin-right: 20px;
+	font-size: 20px;
+	padding: 2rem;
+	color: white;
+	
+	  font-family: 'Dancing Script', cursive;
+	  font-size: 22px;
+
+
+
+
+}
+.nav1:hover,.nav2:hover,.nav3:hover{
+	border:1px solid black;
+	background: grey;
+	height: 104px;
+
+
+}
+#welcome-section {
+	
+	
+	height: 100vh;
+	color: white;
+	display:flex ;
+	align-items: center;
+	background: #000;
+	width: 100%;
+
+
+}
+.welcome{
+	font-weight: 200;
+	font-style: italic;
+	background: #000;
+	width: 100%;
+
+
+	
+
+}
+
+h1{
+	font-size: 3rem;
+	text-align: center;
+	color: white;
+
+	
+}
+#para{
+	font-size: 3rem;
+	text-align: center;
+	margin-bottom: 40px;
+	color: red;
+}
+#work{
+	background: #45567d;
+	width: 100%;
+	padding-top: 100px;
+}
+.underline{
+	border-bottom: 3px solid red;
+	padding-bottom: 10px;
+	
+}
+
+
+.img{
+	width: 220px;
+    border: 1px solid black;
+    margin-top: -7px;
+    
+
+
+}
+#special{
+	font-size: 29px;
+	font-weight: bold;
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	
+
+}
+.btn{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+   
+}
+.btn:hover{
+	background: red;
+}
+.box{
+	background:	#F5F5F5; 
+	border-radius: 20px; 
+	 padding: 50px;
+	 text-align: center;
+	
+}
+.contact-section{
+	background:#303841;
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: center;
+	align-items: center;
+}
+#contact-section-header{
+	
+	color: white;
+	text-align: center;
+	
+}
+
+.contact-header > h2{
+font-size: 5rem;
+}
+.contact-header > p{
+	    font-style: italic;
+	    font-size: 20px;
+}
+
+.contact-header{
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: center;
+	align-items: center;
+}
+#contact{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+   
+}
+#facebook{
+	padding: 20px;
+
+}
+#github{
+	padding: 20px;
+	
+
+}
+#send-mail{
+	padding: 20px;
+	
+
+}
+#linkedin{
+	padding: 20px;
+}
+#img-linkedin{
+	border-radius: 50%;
+   width: 70px;
+   height: 70px;
+}
+#img-github{
+	border-radius: 50%;
+	width: 70px;
+	background: white;
+	height: 70px;
+	
+}
+#img-mail{
+	border-radius: 50%;
+	width: 70px;
+
+}
+#img-facebook{
+	border-radius: 50%;
+	width: 100px;
+	height: 70px;
+}
+
+
+
+#foot{
+	background: red;
+	border-top: 5px solid red;
+	background: #303841;
+    padding: 30px;
+
+}
+
+#footer-para{
+	color: blue;
+	text-align: center;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
